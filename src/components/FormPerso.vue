@@ -62,7 +62,7 @@ export default {
   
 </template>
 
-<style scoped>
+<style scoped lang="scss">
 
 form {
     background-color: rgb(16, 153, 239);
@@ -89,6 +89,11 @@ button {
     background-color: rgb(16, 153, 239);
     font-weight: bold;
     border: 1px solid white;
+}
+
+p {
+    color: yellow;
+    font-weight: bold;
 }
 
 </style>
