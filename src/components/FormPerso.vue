@@ -62,7 +62,7 @@ export default {
   
 </template>
 
-<style scoped lang="scss">
+<style scoped >
 
 form {
     background-color: rgb(16, 153, 239);
